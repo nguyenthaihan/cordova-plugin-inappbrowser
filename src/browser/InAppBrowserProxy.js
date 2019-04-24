@@ -100,7 +100,7 @@ var IAB = {
                 browserWrap.style.boxSizing = 'border-box';
                 browserWrap.style.borderWidth = '40px';
                 browserWrap.style.width = '100vw';
-                browserWrap.style.height = '100vh';
+                browserWrap.style.height = '80vh';
                 browserWrap.style.borderStyle = 'solid';
                 browserWrap.style.borderColor = 'rgba(0,0,0,0.25)';
 
